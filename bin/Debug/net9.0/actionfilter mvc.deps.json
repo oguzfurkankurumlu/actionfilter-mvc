@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "actionfilter mvc/1.0.0": {
+        "runtime": {
+          "actionfilter mvc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "actionfilter mvc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
